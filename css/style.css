@@ -161,6 +161,16 @@
         margin-top: 2rem;
         }
     
+    .steps {
+            margin:0;
+        }
+    section.why-us div.container{
+        padding: 3rem 0 ;
+    }   
+    section.why-us{
+        margin:0;
+        background-color: #222222;
+    }
      
 }
 
