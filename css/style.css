@@ -156,20 +156,11 @@
      width: 100%;
         }
         
-    section.why-us div.container{
-        background-color: #212121;
-    } 
-    body{
-         background-color: #212121  
-     }
-     .site-header{
-        background-color: #232946;
-    }
-   
-     section.lessons{
-        background-color: #232946;
+    .steps .col img {
+        
+        margin-top: 2rem;
+        }
     
-    
-    }
+     
 }
 
